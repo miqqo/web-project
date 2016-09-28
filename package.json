@@ -1,0 +1,49 @@
+{
+  "name": "canifixit",
+  "version": "1.0.0",
+  "description": "Functional Specification:",
+  "main": "webapp.js",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "history": "^2.1.1",
+    "mongodb": "^2.1.16",
+    "mongoose": "^4.4.19",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "react": "^15.0.1",
+    "react-bootstrap": "^0.29.2",
+    "react-dom": "^15.0.1",
+    "react-router": "^2.4.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.7.5",
+    "babelify": "^7.3.0",
+    "body-parser": "^1.15.1",
+    "browserify": "^13.0.0",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.13.0",
+    "gulp": "^3.9.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ida.liu.se:mikko291/TDDD272016_canifixit.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
